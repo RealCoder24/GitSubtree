@@ -1,1 +1,0 @@
-print("Django is my name. GG is my game.")
