@@ -1,0 +1,3 @@
+[submodule "AnotherGitFolder"]
+	path = AnotherGitFolder
+	url = git@github.com:RealCoder24/AnotherFolderGit.git
